@@ -1,0 +1,15 @@
+D:\Đề cương\Lap-trinh .net\bt2\bt2\bin\Debug\net10.0\bt2.exe
+D:\Đề cương\Lap-trinh .net\bt2\bt2\bin\Debug\net10.0\bt2.deps.json
+D:\Đề cương\Lap-trinh .net\bt2\bt2\bin\Debug\net10.0\bt2.runtimeconfig.json
+D:\Đề cương\Lap-trinh .net\bt2\bt2\bin\Debug\net10.0\bt2.dll
+D:\Đề cương\Lap-trinh .net\bt2\bt2\bin\Debug\net10.0\bt2.pdb
+D:\Đề cương\Lap-trinh .net\bt2\bt2\obj\Debug\net10.0\bt2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đề cương\Lap-trinh .net\bt2\bt2\obj\Debug\net10.0\bt2.AssemblyInfoInputs.cache
+D:\Đề cương\Lap-trinh .net\bt2\bt2\obj\Debug\net10.0\bt2.AssemblyInfo.cs
+D:\Đề cương\Lap-trinh .net\bt2\bt2\obj\Debug\net10.0\bt2.csproj.CoreCompileInputs.cache
+D:\Đề cương\Lap-trinh .net\bt2\bt2\obj\Debug\net10.0\bt2.sourcelink.json
+D:\Đề cương\Lap-trinh .net\bt2\bt2\obj\Debug\net10.0\bt2.dll
+D:\Đề cương\Lap-trinh .net\bt2\bt2\obj\Debug\net10.0\refint\bt2.dll
+D:\Đề cương\Lap-trinh .net\bt2\bt2\obj\Debug\net10.0\bt2.pdb
+D:\Đề cương\Lap-trinh .net\bt2\bt2\obj\Debug\net10.0\bt2.genruntimeconfig.cache
+D:\Đề cương\Lap-trinh .net\bt2\bt2\obj\Debug\net10.0\ref\bt2.dll

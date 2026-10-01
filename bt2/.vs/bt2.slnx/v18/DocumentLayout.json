@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1EC1 c\u01B0\u01A1ng\\Lap-trinh .net\\bt2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF75F2F3-3127-B298-7028-E8BB77A12182}|bt2\\bt2.csproj|d:\\\u0111\u1EC1 c\u01B0\u01A1ng\\lap-trinh .net\\bt2\\bt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF75F2F3-3127-B298-7028-E8BB77A12182}|bt2\\bt2.csproj|solutionrelative:bt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EC1 c\u01B0\u01A1ng\\Lap-trinh .net\\bt2\\bt2\\Program.cs",
+              "RelativeDocumentMoniker": "bt2\\Program.cs",
+              "ToolTip": "D:\\\u0110\u1EC1 c\u01B0\u01A1ng\\Lap-trinh .net\\bt2\\bt2\\Program.cs",
+              "RelativeToolTip": "bt2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T06:15:57.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
