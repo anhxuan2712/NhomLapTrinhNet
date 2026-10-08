@@ -1,0 +1,17 @@
+## Visual Studio & VS Code cache / user settings
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+Debug/
+Release/
+x64/
+x86/
