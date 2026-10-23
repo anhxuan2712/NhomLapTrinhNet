@@ -1,0 +1,10 @@
+D:\Đề cương\Lap-trinh .net\bai4.9\bai4.9\bin\Debug\bai4.9.exe.config
+D:\Đề cương\Lap-trinh .net\bai4.9\bai4.9\bin\Debug\bai4.9.exe
+D:\Đề cương\Lap-trinh .net\bai4.9\bai4.9\bin\Debug\bai4.9.pdb
+D:\Đề cương\Lap-trinh .net\bai4.9\bai4.9\obj\Debug\bai4.9.csproj.AssemblyReference.cache
+D:\Đề cương\Lap-trinh .net\bai4.9\bai4.9\obj\Debug\bai4._9.Form1.resources
+D:\Đề cương\Lap-trinh .net\bai4.9\bai4.9\obj\Debug\bai4._9.Properties.Resources.resources
+D:\Đề cương\Lap-trinh .net\bai4.9\bai4.9\obj\Debug\bai4.9.csproj.GenerateResource.cache
+D:\Đề cương\Lap-trinh .net\bai4.9\bai4.9\obj\Debug\bai4.9.csproj.CoreCompileInputs.cache
+D:\Đề cương\Lap-trinh .net\bai4.9\bai4.9\obj\Debug\bai4.9.exe
+D:\Đề cương\Lap-trinh .net\bai4.9\bai4.9\obj\Debug\bai4.9.pdb
